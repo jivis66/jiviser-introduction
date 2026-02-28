@@ -14,7 +14,7 @@ docs/
 ├── food-daily.md       # Recipe recommendation guide (13:00 daily)
 ├── fitness-daily.md    # Exercise consultation guide (07:00/20:00 daily)
 ├── ai-apps-daily.md    # AI application consultation guide (08:00/21:00 daily)
-└── blogs-daily.md      # Blog curation guide (08:30/22:00 daily)
+└── podcasts-daily.md   # Podcast curation guide (07:30/21:30 daily)
 ```
 
 ## Development Workflow
