@@ -10,6 +10,7 @@
 | Food Daily | 美食食谱推荐（时令结合） | 13:00 | [docs/food-daily.md](docs/food-daily.md) |
 | Fitness Daily | 运动健康咨询（跑步/公路车） | 07:00 / 20:00 | [docs/fitness-daily.md](docs/fitness-daily.md) |
 | AI Apps Daily | AI 工具与应用资讯 | 08:00 / 21:00 | [docs/ai-apps-daily.md](docs/ai-apps-daily.md) |
+| Blogs Daily | 博客文章精选（技术/设计/人文） | 08:30 / 22:00 | [docs/blogs-daily.md](docs/blogs-daily.md) |
 
 ## 结构
 
@@ -18,7 +19,8 @@ docs/
 ├── reddit-dailly.md    # Reddit AI 社区监控
 ├── food-daily.md       # 美食推荐
 ├── fitness-daily.md    # 运动健康
-└── ai-apps-daily.md    # AI 应用资讯
+├── ai-apps-daily.md    # AI 应用资讯
+└── blogs-daily.md      # 博客文章精选
 ```
 
 ## 格式

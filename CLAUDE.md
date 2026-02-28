@@ -13,7 +13,8 @@ docs/
 ├── reddit-dailly.md    # AI subreddit monitoring guide (17:00 daily)
 ├── food-daily.md       # Recipe recommendation guide (13:00 daily)
 ├── fitness-daily.md    # Exercise consultation guide (07:00/20:00 daily)
-└── ai-apps-daily.md    # AI application consultation guide (08:00/21:00 daily)
+├── ai-apps-daily.md    # AI application consultation guide (08:00/21:00 daily)
+└── blogs-daily.md      # Blog curation guide (08:30/22:00 daily)
 ```
 
 ## Development Workflow
